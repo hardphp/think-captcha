@@ -128,7 +128,7 @@ class Captcha
 
         return [
             'value' => $bag,
-            'key'   => $hash,
+            'key'   => $ckey,
         ];
     }
 
